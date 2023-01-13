@@ -73,7 +73,7 @@ topology:
 
 2. Схема связи
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab1/pics/lab1.drawio.png)
 
 3. Тексты конфигураций сетевых устройств
 
@@ -179,18 +179,18 @@ set name=SW02.L3.02.TEST
 
 - Проверка на R01.TEST
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab1/pics/R01.jpeg)
 
 - Проверка на SW01.L3.01.TEST
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab1/pics/SW01.jpeg)
 
 - Проверка на SW02.L3.01.TEST
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab1/pics/SW02_1.jpeg)
 
 - Проверка на SW02.L3.02.TEST
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab1/pics/SW02_2.jpeg)
 
 **Вывод:** при выполнении лабораторной работы была изучена работа VLAN, IP адресации.
