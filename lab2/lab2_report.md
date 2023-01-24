@@ -10,7 +10,7 @@ Year: 2022/2023
 
 Group: K33212
 
-Author: Grudoglo Nikita OLegovich
+Author: Grudoglo Nikita Olegovich
 
 Lab: Lab2
 
@@ -74,7 +74,7 @@ topology:
 
 2. Схема связи
 
-![]( "Схема связи")
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab2/pics/lab2.drawio.png "Схема связи")
 
 3. Текст конфигураций сетевых устройств
 
@@ -206,7 +206,16 @@ set name=PC3
 
 4. Результаты пингов для проверки локальной связности
 
+- Проверка на PC1
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab2/pics/PC1.jpeg)
 
+- Проверка на PC2
+
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab2/pics/PC2.jpeg)
+
+- Проверка на PC3
+
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab2/pics/PC3.jpeg)
 
 **Вывод:** в ходе выполнения лабораторной работы были получены навыки по настройке статической маршрутизации.
