@@ -87,7 +87,7 @@ topology:
 
 2. Схема связи
 
-![]( "Схема связи")
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/lab3.drawio.png "Схема связи")
 
 3. Текст конфигураций сетевых устройств
 
@@ -301,16 +301,16 @@ set name=PC1
 
 - MPLS forwarding table на некоторых роутерах
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/R01.NY.jpeg)
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/R01.MSK.jpeg)
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/R01.SPB.jpeg)
 
 - Проверка связи между компьютером и сервером
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/PC1.jpeg)
 
-![]()
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab3/pics/SGI-Prism.jpeg)
 
 **Вывод:** при выполнении лабораторной работы были получены навыки по настройке OSPF, MPLS И EoMPLS.
