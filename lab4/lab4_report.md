@@ -93,11 +93,11 @@ topology:
 
 2. Схема связи
 
-![]( "Схема связи")
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/lab4.drawio.png "Схема связи")
 
 3. Текст конфигураций сетевых устройств 
 
-**1 часть:** настройка VRF
+  **1 часть:** настройка VRF
 
 - Роутер R01.SPB
 
@@ -351,7 +351,7 @@ add disabled=no interface=ether1
 set name=PC3
 ```
 
-**2 часть:** разбор VRF и настройка VPLS (изменение настроек только на устройствах R01.SPB, R01.NY, R01.SVL и PC1, PC2, PC3)
+  **2 часть:** разбор VRF и настройка VPLS (изменение настроек только на устройствах R01.SPB, R01.NY, R01.SVL и PC1, PC2, PC3)
 
 - Роутер R01.SPB
 
@@ -421,15 +421,22 @@ add address=192.168.10.3/24 interface=ether2 network=192.168.10.0
 
 - Результаты пингов на некоторых роутерах
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/R01.HKI.jpeg)
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/R01.SVL.jpeg)
 
 - Проверка связности между VRF (для 1 части)
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/R01.SPB_VRF.jpeg)
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/R01.NY_VRF.jpeg)
+
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/R01.SVL_VRF.jpeg)
 
 - Проверка связности между VPLS (для 2 части)
 
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/PC1.jpeg)
 
-
+![](https://github.com/grudoglon/2022_2023-introduction_in_routing-k33212-grudoglo_n_o/blob/main/lab4/pics/PC3.jpeg)
 
 **Вывод:** при выполнени лабораторной работы были получены навыки по настройке BGP, MPLS и организации L3VPN и VPLS.
